@@ -54,5 +54,4 @@ if __name__ == "__main__":
 Autor
 Siarhei A.
 
-Следующий шаг:  
-мы добавим реальный automation script файл `.py` чтобы проект выглядел как настоящий production инструмент 🚀
+ 
